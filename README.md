@@ -49,4 +49,8 @@ This is a link to my website:
 
 [codeadam.ca](https://codeadam.ca)
 
+## Images
 
+![CodeAdam Logo](https://codeadam.ca/images/code-block.png)
+
+<img src="https://codeadam.ca/images/code-block.png" width="200">
