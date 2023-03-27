@@ -10,4 +10,7 @@ This is another paragraph.
 
 
 
-This is a paragraph with lots of space. 
+This is a paragraph with lots of space. Markdown ignores multiple empty lines.
+
+This is another paragraph.
+This is a paragraph with no line in between.
