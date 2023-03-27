@@ -51,6 +51,10 @@ This is a link to my website:
 
 ## Images
 
+Images will be displayed 100% of their width to a maximum of 100% of the document. 
+
 ![CodeAdam Logo](https://codeadam.ca/images/code-block.png)
+
+Markdown on GitHub does allow the use of the `img` tag.
 
 <img src="https://codeadam.ca/images/code-block.png" width="200">
