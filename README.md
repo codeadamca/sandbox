@@ -69,6 +69,12 @@ Here is an image from inside this repo.
 
 You can add inline `code` using a single tic. Or miltiples link of code using three tics.
 
+```
+console.log("This is some JavaScript!");
+```
+
+You can add language specific colour by including the language after the tics:
+
 ```javascript
 console.log("This is some JavaScript!");
 ```
