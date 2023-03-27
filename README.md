@@ -22,3 +22,7 @@ This is a paragraph with no line in between.
 ## Headings
 
 ### Subsection of Headings
+
+## Text Formatting
+
+This paragraph has some *bold text*.
