@@ -25,4 +25,4 @@ This is a paragraph with no line in between.
 
 ## Text Formatting
 
-This paragraph has some *bold text*.
+This paragraph has some *italics text*. This sentence include **bold text**.
