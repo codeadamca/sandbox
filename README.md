@@ -73,8 +73,15 @@ You can add inline `code` using a single tic. Or miltiples link of code using th
 console.log("This is some JavaScript!");
 ```
 
-You can add language specific colour by including the language after the tics:
+You can add language specific colour by including the language after the tics.
 
 ```javascript
 console.log("This is some JavaScript!");
 ```
+
+## Talbes
+
+Heading 1 | Heading 2 | Heading 3 | #
+- | - | :-: | -:
+Value 1 | Value 2 | Value 3 | 4000
+Value 4 | Value 5 | Value 6 | 450
