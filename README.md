@@ -36,4 +36,11 @@ This is an ordered list:
 
   Some more instructions for item two.
 
-4. This is item number three.
+3. This is item number three.
+
+This is a bullted list:
+
+- Item number one.
+- Item number two.
+
+
