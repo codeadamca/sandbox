@@ -61,9 +61,9 @@ Markdown on GitHub does allow the use of the `img` tag.
 
 Here is an image from inside this repo.
 
-![Sample Image](https://raw.githubusercontent.com/codeadamca/sandbox/main/test.png)
+![Sample Image](https://raw.githubusercontent.com/codeadamca/sandbox/main/_readme/test.png)
 
-![Sample Image](test.png)
+![Sample Image](_readme/test.png)
 
 ## Adding Code
 
