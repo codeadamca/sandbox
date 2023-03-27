@@ -64,3 +64,11 @@ Here is an image from inside this repo.
 ![Sample Image](https://raw.githubusercontent.com/codeadamca/sandbox/main/test.png)
 
 ![Sample Image](test.png)
+
+## Adding Code
+
+You can add inline `code` using a single tic. Or miltiples link of code using three tics.
+
+```javascript
+console.log("This is some JavaScript!");
+```
