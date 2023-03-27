@@ -79,9 +79,13 @@ You can add language specific colour by including the language after the tics.
 console.log("This is some JavaScript!");
 ```
 
-## Talbes
+## Tables
 
 Heading 1 | Heading 2 | Heading 3 | #
 --- | --- | :---: | ---:
 Value 1 | Value 2 | Value 3 | 4000
 Value 4 | Value 5 | Value 6 | 450
+
+# Other Stuff
+
+> This is hightlighted!
