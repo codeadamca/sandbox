@@ -54,7 +54,7 @@ You can use plain HTML in a README.md file:
 
 Use the `<html>` tag to start an HTML document.
 
-```
+```javascript
 console.log("Hello World!");
 document.write("<h1>Hello World!</h1>");
 ```
