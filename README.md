@@ -36,4 +36,12 @@ Properly formatted URLs will be linked:
 
 https://codeadam.ca
 
+## Images
 
+Images can be added by using a full URL:
+
+![Text Image](https://raw.githubusercontent.com/codeadamca/sandbox/main/_readme/test.png)
+
+This URL can also be relative:
+
+![Text Image](_readme/test.png)
