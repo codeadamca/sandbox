@@ -45,3 +45,8 @@ Images can be added by using a full URL:
 This URL can also be relative:
 
 ![Text Image](_readme/test.png)
+
+You can use plain HTML in a README.md file:
+
+<img src="https://raw.githubusercontent.com/codeadamca/sandbox/main/_readme/test.png" width="100">
+
