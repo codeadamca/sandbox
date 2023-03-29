@@ -28,4 +28,12 @@ This text is *italics* and this text is **bold** and this text is both ***bold a
 
     Use four spaces to indent the next line
 
+## Links
+
+Here is a link to [my website](https://codeadam.ca).
+
+Properly formatted URLs will be linked:
+
+https://codeadam.ca
+
 
