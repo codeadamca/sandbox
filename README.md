@@ -67,7 +67,7 @@ document.write("<h1>Hello World!</h1>");
 | Value 3         | Value 4            | 1.0  |
 
 
-First Heading | Second Heading
+First Heading | Second Heading | #
 --- | --- | ---:
 Value 1 | Value 2 | 1.0
 Value 3 | Value 4 | 1.0
