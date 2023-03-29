@@ -50,3 +50,7 @@ You can use plain HTML in a README.md file:
 
 <img src="https://raw.githubusercontent.com/codeadamca/sandbox/main/_readme/test.png" width="100">
 
+## Code
+
+Use the `<html>` tag to start an HTML document.
+
