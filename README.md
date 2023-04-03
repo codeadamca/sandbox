@@ -74,3 +74,10 @@ First Heading | Second Heading | #
 Value 1 | Value 2 | 1.0
 Value 3 | Value 4 | 1.0
 
+## Repo Resources
+
+* [Markdown](https://daringfireball.net/projects/markdown/syntax)
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
