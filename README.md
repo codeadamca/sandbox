@@ -78,7 +78,7 @@ Value 3 | Value 4 | 1.0
 ## Repo References
 
 * [Visual Studio Code](https://code.visualstudio.com/) 
-* [Markdown Guide](https://www.markdownguide.org/)
+* [Markdown - Guide](https://www.markdownguide.org/)
 * [Markdown](https://daringfireball.net/projects/markdown/)
 
 <a href="https://codeadam.ca">
